@@ -1,6 +1,6 @@
 {
   "name": "dreamer-vue-components",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Vue library of awesome components",
   "author": "Camilo Vera Cortés <cvera@dreamer8.com>",
   "main": "dist/lib/dreamer-vue-components.min.js",
