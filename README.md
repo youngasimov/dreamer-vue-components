@@ -11,6 +11,24 @@
 npm install dreamer-vue-components --save
 ```
 
+Add the css into the website
+
+in index.html
+```
+...
+<head>
+  <link rel="stylesheet" href="route/to/file/dreamer-vue-components.min.css">
+</head>
+...
+```
+
+in scss
+```
+...
+@import '../../node_modules/dreamer-vue-components/dist/lib/dreamer-vue-components.min';
+...
+```
+
 
 ## Components
 - [hover-carousel](#hover-carousel) - Light image carousel implemented as Vue component that change the images on mouse over, intended to be use inside a grid gallery of images to show related images in same block.
